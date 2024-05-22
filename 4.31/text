@@ -1,0 +1,10 @@
+if (birthday.day() < 10)
+        {
+            d += '0';
+            d += (char)birthday.day();
+        }
+        else
+        {
+            d += (char)(birthday.day() / 10);
+            d += (char)(birthday.day() % 10);
+        }

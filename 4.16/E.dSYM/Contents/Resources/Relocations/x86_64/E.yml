@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/liuguankai/vscode/HomeWork2/4.16/E'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z8DistanceR5PointS0_, symObjAddr: 0x0, symBinAddr: 0x100000C70, symSize: 0x60 }
+  - { offsetInCU: 0x465D, offset: 0x465D, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x180, symBinAddr: 0x100000DF0, symSize: 0x50 }
+  - { offsetInCU: 0x469D, offset: 0x469D, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x280, symBinAddr: 0x100000EF0, symSize: 0x30 }
+  - { offsetInCU: 0x7146, offset: 0x7146, size: 0x8, addend: 0x0, symName: __Z8DistanceR5PointS0_, symObjAddr: 0x0, symBinAddr: 0x100000C70, symSize: 0x60 }
+  - { offsetInCU: 0x719C, offset: 0x719C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x60, symBinAddr: 0x100000CD0, symSize: 0xD0 }
+  - { offsetInCU: 0x7281, offset: 0x7281, size: 0x8, addend: 0x0, symName: __ZN5PointC1Edd, symObjAddr: 0x130, symBinAddr: 0x100000DA0, symSize: 0x30 }
+  - { offsetInCU: 0x7372, offset: 0x7372, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x160, symBinAddr: 0x100000DD0, symSize: 0x20 }
+  - { offsetInCU: 0x73A4, offset: 0x73A4, size: 0x8, addend: 0x0, symName: __ZN5PointC2Edd, symObjAddr: 0x1D0, symBinAddr: 0x100000E40, symSize: 0x30 }
+  - { offsetInCU: 0x73E8, offset: 0x73E8, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x200, symBinAddr: 0x100000E70, symSize: 0x80 }
+  - { offsetInCU: 0x7454, offset: 0x7454, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x2B0, symBinAddr: 0x100000F20, symSize: 0x2B }
+...

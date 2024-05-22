@@ -1,0 +1,6 @@
+int account2;
+    char name2[5];
+    float blance2;
+    cin >> account2 >> name2 >> blance2;
+    CAccount tem2(account2, name2, blance2);
+    tem2.check();tem2.deposit();tem2.withdraw();
