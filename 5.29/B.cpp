@@ -1,0 +1,1 @@
+__BITINT_MAXWIDTH__
