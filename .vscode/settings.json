@@ -4,6 +4,9 @@
         "string": "cpp",
         "bitset": "cpp",
         "ios": "cpp",
-        "locale": "cpp"
+        "locale": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp"
     }
 }
