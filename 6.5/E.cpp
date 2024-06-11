@@ -251,7 +251,7 @@ int main()
             cin >> b;
             list.remove(b);
             cin >> b >> b1;
-            list.set(b1, b);
+            list.set(b1, b); 
             list.print();
         }
     }
